@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "아스키 코드 + 제어문자", "아스키 코드 + 제어문자.vcxproj", "{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}.Debug|x64.ActiveCfg = Debug|x64
+		{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}.Debug|x64.Build.0 = Debug|x64
+		{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}.Debug|x86.Build.0 = Debug|Win32
+		{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}.Release|x64.ActiveCfg = Release|x64
+		{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}.Release|x64.Build.0 = Release|x64
+		{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}.Release|x86.ActiveCfg = Release|Win32
+		{2CA6398B-A10B-4749-90B2-32EDFC91EBAA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4867BDCA-C4CA-4CCE-9FC8-23B9C0E8318F}
+	EndGlobalSection
+EndGlobal
